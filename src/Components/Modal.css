@@ -1,0 +1,11 @@
+.modal {
+    display: block;
+    position: fixed;
+    z-index: 1; /* Sit on top */
+    width: 35%;
+    height: 50%;
+    left: 32%;
+    top: 0;
+    background-color: azure;
+    margin: auto;
+}
